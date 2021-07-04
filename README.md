@@ -12,8 +12,9 @@ Repositório para os arquivos do desafio Academia CAP Mulheres
  https://www.python.org/downloads/
 
 ### INSTRUÇÔES PARA EXECUÇÂO
+- Baixe o repositório.
 - Abra um terminal.
-- Navegue até a pasta onde se encontra esse script. 
+- Navegue até a pasta calculadora. 
 - Digite sem as aspas "python3 calculadora.py" e tecle ENTER.
 
 ### DEPENDÊNCIAS
@@ -24,8 +25,6 @@ Repositório para os arquivos do desafio Academia CAP Mulheres
 # 2º Desafio
 
 ## Cadastro de Anúncios Online
-
-[Acesse o Sistema](https://josi-andrade.github.io/academia-cap-desafio/cadastro)
 
 Desafio de criação de um Cadastro de Anúncios, com relatórios filtrados por Cliente e Período.
 
@@ -38,7 +37,8 @@ Desafio de criação de um Cadastro de Anúncios, com relatórios filtrados por 
 - O sistema utiliza o LocalStorage do navegador.
 
 ### INSTRUÇÔES PARA EXECUÇÂO
-- Abra o arquivo index.html em seu navegador preferido.
+- Baixe o repositório.
+- Abra o arquivo index.html (pasta cadastro) em seu navegador preferido.
 
 Desenvolvido por Josiane Cardoso de Andrade
 
